@@ -11,8 +11,6 @@ class Pattern2
             }
             System.out.println();
         }
-
-
     }
 
 }
